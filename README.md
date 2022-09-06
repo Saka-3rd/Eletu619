@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eletu619
+- 👋 Hi, I’m @Saka_3rd
 - 👀 I’m interested in data science/data analytics
 - 🌱 I’m currently learning data science/data analytics
 - 💞️ I’m looking to collaborate on data science/data analytics
